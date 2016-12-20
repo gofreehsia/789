@@ -3,7 +3,7 @@ package testgit;
 public class no1 {
 
 	public static void main(String[] args) {
-		System.out.println("次次次");
+		System.out.println("次次次456");
 	}
 	
 }
